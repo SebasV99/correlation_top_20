@@ -9,7 +9,7 @@ This project enables users to scrape the latest data on these top holdings, crea
 - **Visualization**: Visualize the distribution of correlation values among the top holdings.
 - **Export as PDF**: Export the generated heat maps and distribution visualizations as PDF files for easy sharing and reporting.
 
-## Liberies 
+## Libraries 
 - **pandas**
 - **yfinance**
 - **matplotlib**
